@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brage.Bump", "Brage.Bump\Brage.Bump.csproj", "{AEA94FD5-9F44-4430-99B6-8339885975E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brage.Bump.UnitTest", "Brage.Bump.UnitTest\Brage.Bump.UnitTest.csproj", "{C5D052A6-1C36-4107-A4E6-6AC2F260ACA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEA94FD5-9F44-4430-99B6-8339885975E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA94FD5-9F44-4430-99B6-8339885975E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA94FD5-9F44-4430-99B6-8339885975E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA94FD5-9F44-4430-99B6-8339885975E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5D052A6-1C36-4107-A4E6-6AC2F260ACA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D052A6-1C36-4107-A4E6-6AC2F260ACA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D052A6-1C36-4107-A4E6-6AC2F260ACA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D052A6-1C36-4107-A4E6-6AC2F260ACA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
